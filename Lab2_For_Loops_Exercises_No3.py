@@ -1,0 +1,1 @@
+direction = input("Which direction the user wants to count? up or down")
